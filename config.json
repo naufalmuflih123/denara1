@@ -1,20 +1,20 @@
 {
-    "ownerNumber": "6285727492435@s.whatsapp.net", 
-    "ownerName": "Denara Bot", 
-    "botName": "DENARA BOT",
+    "ownerNumber": "6289601124991@s.whatsapp.net", 
+    "ownerName": "Naufal Muflih", 
+    "botName": "Wa_Bot",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA",
-    "yootube": "https://youtube.com/c/DenaraBot",
+    "group": "https://chat.whatsapp.com/",
+    "yootube": "https://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA",
     "igCookie": "csrftoken=Yj80cFn0zMn6svtMdvKTBcMzMwWPsQzx; sessionid=53767158422%3A4hXJOZ2NBfcF2f%3A10; ds_user_id=53767158422;",
  
     "limitCount": 100,
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Denara Bot"
+        "packname": "© Wa_Bot",
+        "author": "Naufal Muflih"
     }
 }
