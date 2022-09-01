@@ -319,9 +319,9 @@ return `*OTHERS MENU*
 
 exports.textprem  = (sender, prefix) => {
 return `Jika kamu ingin menjadi Member Premium, kamu cukup membayar 
-Rp5.000 untuk 1 Minggu
-Rp20.000 untuk 1 Bulan 
-dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp50.000. Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
+Rp10.000 untuk 1 Minggu
+Rp25.000 untuk 1 Bulan 
+dan jika ingin menjadi Member Premium Permanen kamu hanya membayar Rp100.000. Jika berminat silahkan chat Owner Bot, ketik ${prefix}owner
 
 *Payment :* 
 Dana/Qris/Ovo`
@@ -331,11 +331,5 @@ exports.textdonasi = (sender, prefix) => {
 return `*DONASI BOT*
 
 *E-walet Monay :*
-➭ Dana : 0857-2749-2435
-➭ Ovo : 0857-2749-2435
-➭ Gopay : 08xxxxxxxxx
-➭ Bca : 3570844228
-    
-*Qris All Payment :*
-https://telegra.ph/qrallpayment-08-30-2`
+➭ Dana : 081615997326`
 }
